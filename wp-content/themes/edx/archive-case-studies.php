@@ -1,7 +1,9 @@
 <?php get_header(); ?>
 <?php get_template_part('parts/top', ''); ?>
+
 <?php get_template_part('parts/pages', ''); ?>
     <section class="content">
+
         <div class="container">
             <?php $resources = new WP_Query(array(
                 'post_type' => 'case-studies',
