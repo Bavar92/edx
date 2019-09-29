@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="76" height="76" viewBox="0 0 76 76">
+  <g id="list">
+    <rect id="Rectangle_201" data-name="Rectangle 201" width="76" height="76" transform="translate(76 76) rotate(180)" fill="#ff7a11" opacity="0"/>
+    <circle id="Ellipse_13" data-name="Ellipse 13" cx="3.167" cy="3.167" r="3.167" transform="translate(9.5 19)" fill="#ff7a11"/>
+    <circle id="Ellipse_14" data-name="Ellipse 14" cx="3.167" cy="3.167" r="3.167" transform="translate(9.5 34.833)" fill="#ff7a11"/>
+    <circle id="Ellipse_15" data-name="Ellipse 15" cx="3.167" cy="3.167" r="3.167" transform="translate(9.5 50.667)" fill="#ff7a11"/>
+    <rect id="Rectangle_202" data-name="Rectangle 202" width="44.333" height="6.333" rx="0.94" transform="translate(22.167 34.833)" fill="#ff7a11"/>
+    <rect id="Rectangle_203" data-name="Rectangle 203" width="44.333" height="6.333" rx="0.94" transform="translate(22.167 50.667)" fill="#ff7a11"/>
+    <rect id="Rectangle_204" data-name="Rectangle 204" width="44.333" height="6.333" rx="0.94" transform="translate(22.167 19)" fill="#ff7a11"/>
+  </g>
+</svg>

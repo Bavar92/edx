@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><svg id="Group_279" data-name="Group 279" xmlns="http://www.w3.org/2000/svg" width="63.275" height="63.275" viewBox="0 0 63.275 63.275">
+  <path id="Frames-24px" d="M0,0H63.275V63.275H0Z" fill="none"/>
+  <g id="Outline" transform="translate(3.343 2.636)">
+    <circle id="Ellipse_17" data-name="Ellipse 17" cx="2.636" cy="2.636" r="2.636" transform="translate(46.75 52.729)" fill="#ff7a11"/>
+    <circle id="Ellipse_18" data-name="Ellipse 18" cx="2.636" cy="2.636" r="2.636" transform="translate(4.566 52.729)" fill="#ff7a11"/>
+    <path id="Path_132" data-name="Path 132" d="M57.594,39.848l-4.3-12.911V3.636A2.636,2.636,0,0,0,50.654,1H8.471A2.636,2.636,0,0,0,5.834,3.636v23.3l-4.3,12.908a4.538,4.538,0,0,0,.548,4.142A4.522,4.522,0,0,0,5.834,45.82H26.926v7.909H13.744V59H45.381V53.729H32.2V45.82H53.291a4.412,4.412,0,0,0,4.3-5.972ZM48.018,6.273V24.728H11.107V6.273ZM6.857,40.547,10.372,30H48.756l3.514,10.546Z" transform="translate(-1.268 -1)" fill="#ff7a11"/>
+    <path id="Path_133" data-name="Path 133" d="M10,13H20.546v5.273H10Z" transform="translate(13.022 18.638)" fill="#ff7a11"/>
+  </g>
+</svg>

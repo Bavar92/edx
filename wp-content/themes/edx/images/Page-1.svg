@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" width="48.459" height="53.51" viewBox="0 0 48.459 53.51">
+  <g id="event" transform="translate(0.501 0.5)">
+    <g id="Artboard" transform="translate(1 1)">
+      <g id="calendar" transform="translate(0)">
+        <rect id="Rectangle-path" width="45.459" height="45.459" rx="2" stroke-width="3" transform="translate(0 5.051)" stroke="#ff7a11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path id="Shape" d="M13,0V10.1" transform="translate(19.832)" fill="none" stroke="#ff7a11" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill-rule="evenodd"/>
+        <path id="Shape-2" data-name="Shape" stroke="#ff7a11" d="M5,0V10.1" fill="none" transform="translate(7.628)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill-rule="evenodd"/>
+        <path id="Shape-3" data-name="Shape" stroke="#ff7a11" d="M0,8H45.459" fill="none" transform="translate(0 12.204)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

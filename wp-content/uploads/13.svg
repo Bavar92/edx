@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" width="67.204" height="67.204" viewBox="0 0 67.204 67.204">
+  <g id="Group_278" data-name="Group 278" transform="translate(0.102)">
+    <g id="Black" transform="translate(1.398 4.194)">
+      <path id="Path_121" data-name="Path 121" d="M37.847,30.071H1.5V10.5" transform="translate(1.296 14.663)" fill="none" stroke="#ff7a11" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_122" data-name="Path 122" d="M7.5,5.5H41.051V25.071" transform="translate(12.071 5.684)" fill="none" stroke="#ff7a11" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_123" data-name="Path 123" d="M10.5,17.5V28.684" transform="translate(17.459 27.235)" fill="none" stroke="#ff7a11" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_124" data-name="Path 124" d="M6.5,21.5H28.867" transform="translate(10.276 34.418)" fill="none" stroke="#ff7a11" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_125" data-name="Path 125" d="M1.5,14.5H37.847" transform="translate(1.296 21.847)" fill="none" stroke="#ff7a11" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_126" data-name="Path 126" d="M.5,1.5H14.48V21.071H.5Z" transform="translate(-0.5 -1.5)" fill="none" stroke="#ff7a11" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_127" data-name="Path 127" d="M16.5,14.5H33.276V39.663H16.5Z" transform="translate(28.235 21.847)" fill="none" stroke="#ff7a11" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_128" data-name="Path 128" d="M2.5,6.5H5.3" transform="translate(3.092 7.48)" fill="none" stroke="#ff7a11" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_129" data-name="Path 129" d="M16.5,21.5H33.276" transform="translate(28.235 34.418)" fill="none" stroke="#ff7a11" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <g id="Group_277" data-name="Group 277" transform="translate(37.745 16.776)">
+        <path id="Path_130" data-name="Path 130" d="M14,8l8.388,8.388" transform="translate(-14 -6.602)" fill="none" stroke="#ff7a11" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path_131" data-name="Path 131" d="M16.5,7.5l2.8,2.8" transform="translate(-9.51 -7.5)" fill="none" stroke="#ff7a11" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+    </g>
+    <path id="Frames-24px" d="M0,0H67.1V67.1H0Z" fill="none"/>
+  </g>
+</svg>

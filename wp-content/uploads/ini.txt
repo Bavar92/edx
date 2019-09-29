@@ -1,0 +1,26 @@
+[NH_COMMON]
+;; This NetHASP.INI file is configured to TCPIP. 
+;; Please enter the address of the machine which the NetHASP key is connected to;
+
+NH_TCPIP=Enabled 			; Use the TCP/IP protocol
+
+
+[NH_TCPIP]
+
+NH_SERVER_ADDR=192.168.234.99		; IP addresses of all the NetHASP 
+								; License Managers you want to search.
+								; Unlimited addresses and multiple
+								; lines are possible.
+								;
+								; Possible address format examples:
+								; IP address:      192.114.176.65
+								; Local Hostname:  ftp.aladdin.co.il
+
+NH_TCPIP_METHOD=UDP				; Send a TCP packet or UDP packet
+								; Default:  UDP
+
+								; Note: HASP API v8.x supports UDP,
+								; it doesn't support TCP.
+
+;NH_USE_BROADCAST=Disabled 	; Use TCPI/IP Broadcast mechanism.
+								; Default:  Enabled

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" width="52.951" height="53.985" viewBox="0 0 52.951 53.985">
+  <g id="Page-1" transform="translate(1.5 2.535)">
+    <g id="Artboard" transform="translate(1 1)">
+      <g id="tv" transform="translate(0 0)">
+        <rect id="Rectangle-path" width="47.951" height="35.963" rx="2" stroke-width="5" transform="translate(0 11.988)" stroke="#ff7a11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path id="Shape" d="M28.976,0,16.988,11.988,5,0" transform="translate(6.988)" fill="none" stroke="#ff7a11" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
