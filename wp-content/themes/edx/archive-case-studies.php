@@ -12,6 +12,9 @@
                 'posts_per_page' => 12,
                 'paged' => get_query_var('paged'),
             ));
+
+
+
             if ($resources->have_posts()) : ?>
                 <div class="resources">
                     <?php while ($resources->have_posts()) : $resources->the_post(); ?>
